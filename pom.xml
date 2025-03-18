@@ -49,11 +49,11 @@
       <artifactId>spring-boot-starter-quartz</artifactId>
       <version>2.1.0.RELEASE</version>
     </dependency>
-    <dependency>
+    <!-- <dependency>
       <groupId>org.yaml</groupId>
       <artifactId>snakeyaml</artifactId>
       <version>1.25</version>
-    </dependency>
+    </dependency> -->
     <dependency>
       <groupId>org.apache.storm</groupId>
       <artifactId>storm-core</artifactId>
